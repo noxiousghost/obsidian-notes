@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "7bf092e99f107f51",
+    "type": "split",
+    "children": [
+      {
+        "id": "97ce56bb3f1eaaff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37a218c927543877",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99716780b60588bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "57d512ad527535ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda7cc1a5395595e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ae05808b82b4f44c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9dc48fb9b02ce3e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d395f044680d8c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d91d07e6560fb214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e7c5ea3a3285d8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning Notes/Docker & PostgreSQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Docker & PostgreSQL"
+            }
+          },
+          {
+            "id": "91a309d5f204a0ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning Notes/Docker & PostgreSQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Docker & PostgreSQL"
+            }
+          },
+          {
+            "id": "3761c2dc4e7166f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c53c40b6c98ae2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning Notes/Docker & PostgreSQL.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Docker & PostgreSQL"
+            }
+          },
+          {
+            "id": "247ca7dcd6aadc87",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "cda7cc1a5395595e",
+  "lastOpenFiles": [
+    "git@github.com:noxiousghost/obsidian-notes.git",
+    "git@github.com:noxiousghost",
+    "Untitled.canvas",
+    "Complete Docker.md",
+    "Inversion of Control.md",
+    "Personal Projects/Fun Olympics TS.md",
+    "Personal Projects/Ekata Global Consultancy.md",
+    "Personal Projects/Backend Roadmap.md",
+    "Personal Projects/Air Quality Analyzer.md",
+    "Over the wire bandit/Level 0 - 10.md",
+    "Outside Projects/URL shortener.md",
+    "Outside Projects",
+    "Learning Notes/Docker & PostgreSQL.md",
+    "Welcome.md",
+    "Learning Notes/What is Event Loop in JS.md",
+    "Coding",
+    "What is Event Loop in JS.md",
+    "Fun Olympics TS.md",
+    "Ekata Global Consultancy.md",
+    "Backend Roadmap.md",
+    "Air Quality Analyzer.md",
+    "Over the wire bandit",
+    "Learning Notes",
+    "Personal Projects"
+  ]
+}

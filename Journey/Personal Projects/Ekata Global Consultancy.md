@@ -1,0 +1,2 @@
+- Create all the smaller components for the website
+- HOLD

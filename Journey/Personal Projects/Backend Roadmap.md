@@ -1,0 +1,18 @@
+- Use jest for unit testing cases for services and middlewares
+	- get upto 80% coverage
+- Learn SQL (preferably PostgreSQL)
+	- Create air quality analyzer application again using SQL
+- Learn Swagger
+- Learn SonarQube
+- Learn Docker
+	- {{video https://www.youtube.com/watch?v=fSmLiOMp2qI}}
+	-
+- Learn design patterns
+	- https://refactoring.guru/design-patterns
+	- https://www.patterns.dev/
+- Learn AWS
+	- Ec2
+	- Cloud Front
+	- s3-signed urls
+	- simple notification service
+-
